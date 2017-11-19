@@ -20,5 +20,5 @@ GDG DevFest Seoul 2017 프론트엔드 모던 프레임워크 낱낱히 파헤�
 이 리포지토리는 `먹킷리스트` 앱을 구성한 아주 간단한 코드 프로젝트입니다.
 
 - [angular/my-app](https://github.com/KennethanCeyer/gdg-devfest-seoul-frontend-frameworks/tree/master/angular/my-app)
-- [react/my-app](https://github.com/KennethanCeyer/gdg-devfest-seoul-frontend-frameworks/tree/master/angular/my-react)
-- [vuejs/my-app](https://github.com/KennethanCeyer/gdg-devfest-seoul-frontend-frameworks/tree/master/angular/my-vuejs)
+- [react/my-app](https://github.com/KennethanCeyer/gdg-devfest-seoul-frontend-frameworks/tree/master/react/my-app)
+- [vuejs/my-app](https://github.com/KennethanCeyer/gdg-devfest-seoul-frontend-frameworks/tree/master/vuejs/my-app)
