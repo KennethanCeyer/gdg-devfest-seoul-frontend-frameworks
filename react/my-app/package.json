@@ -5,8 +5,7 @@
   "dependencies": {
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
-    "react-scripts": "2.1.3",
-    "snyk": "^1.147.4"
+    "react-scripts": "3.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
