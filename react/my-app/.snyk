@@ -5,10 +5,10 @@ ignore: {}
 patch:
   'npm:hoek:20180212':
     - react-scripts > fsevents > node-pre-gyp > hawk > hoek:
-        patched: '2019-05-07T22:23:50.465Z'
+        patched: '2019-05-17T22:24:18.970Z'
     - react-scripts > fsevents > node-pre-gyp > hawk > boom > hoek:
-        patched: '2019-05-07T22:23:50.465Z'
+        patched: '2019-05-17T22:24:18.970Z'
     - react-scripts > fsevents > node-pre-gyp > hawk > sntp > hoek:
-        patched: '2019-05-07T22:23:50.465Z'
+        patched: '2019-05-17T22:24:18.970Z'
     - react-scripts > fsevents > node-pre-gyp > hawk > cryptiles > boom > hoek:
-        patched: '2019-05-07T22:23:50.465Z'
+        patched: '2019-05-17T22:24:18.970Z'
